@@ -32,3 +32,12 @@ Reviewed string printing and concatenation.
 resume session 10:40am : I'm super obsessive about doing every exercise manually, type in by hand, no matter what the course.  This has been my doom in many a good course when I couldn't satisfy my desire to do everything fast enough to maintain interest. I recognize that's my problem, I also believe that as mentioned prior more exposure and more explicit exposure (e.g., purposeful / intentional exposure with clearly defined goals) is better for my holistic learning process.
 
 I also should not stay up until 4 coding and reading when I have to get up the next day.  There are few things that have held my interest over time, conceptually "programming" is one of them.  Telling a machine how to do something, enjoying perfect obedience, even with regard to obvious mistakes.  This and video games, we're going on 40 years active now.  I must have been 8 when I got that TI.  8 years old copying a dancing "mister bojangles" from some BASIC book.  At some point within a year or two I eventually convinced my parents to get me a tape recorder to store programs and data.  Primitive but functional.  I remember thinking I was going to write a secret note taking program, with a password and such.  Now I realize I have very little about which to write secret notes.
+
+Resume session afternoon: finished the day final exercise, a silly band name generator that demonstrates the most basic console i/o sequence as well as fundamental string processing.
+https://replit.com/@demondegreen/band-name-generator#
+
+Left some feedback with regard to a couple of broken issues on some of the teaching material (tech changes, links change, etc).  Also started using a pomodoro timer today to try to focus better.  3 tomatoes on a saturday is not bad, and that didn't acount any of the work i did before, it would have been easily 5-6.
+
+Looking forward to tomorrow, I'm happy with the pace for day 1.  The guided project arc and intro to all the different libraries is what I need the most.  Structure.  The review of the python syntax is just icing on the cake, because of course it feels good to already know how to do something.  It gave me time to mess around and check out using the Thonny debugger (cool) without feeling distracted.
+
+### R1D2
