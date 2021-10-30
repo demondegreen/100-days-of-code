@@ -24,3 +24,7 @@ It's after midnight now, about 1:24am, so it counts as Day 1.  10/30/2021
 Just took the 10 question placement exam and got a perfect score.  The result suggest that I could skip to Day 32, but I am choosing NOT do do that. 
 
 Moreover, the additional *time exposure* working with a given concept works better for my overall mastery, and to be honest I won't turn down the ego boost of already knowing how to do some of the lessons, as it will give me some more time to look at side studies.  #100DaysOfPython doesn't have to mean Python only.  Also I definitely want to run the project days when they discuss Python Turtle and Tkinter!
+
+Next session: repl.it is pretty awesome, they didn't have stuff like this even a few years ago.  (Forgive me, my first experience with Jupyter notebooks was only about 2 months ago, many things blow me away.) 
+
+Reviewed string printing and concatenation.
