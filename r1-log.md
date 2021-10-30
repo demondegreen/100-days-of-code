@@ -36,7 +36,7 @@ I also should not stay up until 4 coding and reading when I have to get up the n
 Resume session afternoon: finished the day final exercise, a silly band name generator that demonstrates the most basic console i/o sequence as well as fundamental string processing.
 https://replit.com/@demondegreen/band-name-generator#
 
-Left some feedback with regard to a couple of broken issues on some of the teaching material (tech changes, links change, etc).  Also started using a pomodoro timer today to try to focus better.  3 tomatoes on a saturday is not bad, and that didn't acount any of the work i did before, it would have been easily 5-6.
+Left some feedback with regard to a couple of broken issues on some of the teaching material (tech changes, links change, etc).  Also started using a pomodoro timer today to try to focus better.  3 tomatoes on a saturday is not bad, and that didn't account any of the work i did before, it would have been easily 5-6.
 
 Looking forward to tomorrow, I'm happy with the pace for day 1.  The guided project arc and intro to all the different libraries is what I need the most.  Structure.  The review of the python syntax is just icing on the cake, because of course it feels good to already know how to do something.  It gave me time to mess around and check out using the Thonny debugger (cool) without feeling distracted.
 
