@@ -16,7 +16,7 @@ So I am starting from scratch at day 0.  I need to get back into the world, and 
 
 I have noticed several people reporting starting study on Day 0.  I am always learning, so I could report something for today as well, but I will start the official reports and the official "counting" work / study, tomorrow.
 
-I am not concerned about whether this is "working on real problems" or not, as for counting toward this challenge... The real problem that I'm working on is the slow but certain unwinding of my focus and initiative over the passing years.  The real success will be to complete one round of 100 days, even if it takes more than 100 days, at the end of which having something to show for the effort (github repo, working apps and web projects, relavent Twitter posts, blog posts).
+I am not concerned about whether this is "working on real problems" or not, as for counting toward this challenge... The real problem that I'm working on is the slow but certain unwinding of my focus and initiative over the passing years.  The real success will be to complete one round of 100 days, even if it takes more than 100 days, at the end of which having something to show for the effort (github repo, working apps and web projects, relevent Twitter posts, blog posts).
 
 ### R1D1 
 <!--- Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com --->
