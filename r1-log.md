@@ -1,4 +1,5 @@
 # #100DaysOfCode Log - Round 1 - [Christian de Mondegreen]
+# https://git.io/JPgsK
 
 The log of my #100DaysOfCode challenge. Started on [Saturday October 30, 2021].
 
