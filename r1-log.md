@@ -41,4 +41,21 @@ Left some feedback with regard to a couple of broken issues on some of the teach
 
 Looking forward to tomorrow, I'm happy with the pace for day 1.  The guided project arc and intro to all the different libraries is what I need the most.  Structure.  The review of the python syntax is just icing on the cake, because of course it feels good to already know how to do something.  It gave me time to mess around and check out using the Thonny debugger (cool) without feeling distracted.
 
-### R1D2
+### R1D2 
+10/31/2021 ooooh spooky halloween
+
+Just completed the day two exercises and final project, a tip calculator.  
+https://replit.com/@demondegreen/Tip-Calculator?embed=1&output=1#main.py
+Today's work included a review of data types and type conversions, numeric operations, and f-strings, building upon the basic i/o from yesterday.  Probably the most important thing that I learned today was how to use a format string inside an f-string {}, rather than executing a string method. 
+
+Not being as long-winded today. :)
+
+### R1D3
+
+Day 3 of the course completed.
+summary: reviewed conditional statements and branching, comparison operators, the modulo %, logical operators.
+
+Final project is a cool choose your own adventure / interactive fiction game.  Cool being relatively speaking compared to nothing.
+https://replit.com/@demondegreen/jungle-of-doom?embed=1&output=1#main.py
+
+11 tomatoes today, just about to be 12. 
