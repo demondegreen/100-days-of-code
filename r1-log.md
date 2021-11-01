@@ -58,4 +58,6 @@ summary: reviewed conditional statements and branching, comparison operators, th
 Final project is a cool choose your own adventure / interactive fiction game.  Cool being relatively speaking compared to nothing.
 https://replit.com/@demondegreen/jungle-of-doom?embed=1&output=1#main.py
 
+flowchart: https://app.diagrams.net/?client=1#G1e30NH3zLct5md1gHnOCC67nYjVdb_VlO
+
 11 tomatoes today, just about to be 12. 
