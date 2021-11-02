@@ -61,3 +61,19 @@ https://replit.com/@demondegreen/jungle-of-doom?embed=1&output=1#main.py
 flowchart: https://app.diagrams.net/?client=1#G1e30NH3zLct5md1gHnOCC67nYjVdb_VlO
 
 11 tomatoes today, just about to be 12. 
+
+### R1D4
+
+Day 4 completed.  Not nearly as lengthy for me as yesterday.  I felt like I put too much time into a few things yesterday.  
+
+summary: reviewed randomness and pseudorandom number generators, modules, lists
+
+final project was a console rock paper scissors game.
+https://replit.com/@demondegreen/RockPaperScissors
+
+Mine works.  As I was writing it I specifically commented that I'm assuming no errors or error handling, as if the input was coming from taps of a touchscreen pad.
+Little did I know that she would introduce the concept of error handling in the solution for the project.  Fine by me, but I did not rewrite.
+
+I also did not rewrite my prototype in her pattern, although I can see where her pattern would be more easily extended to a RPS type game with an additional n hand positions that were all along a spectrum.  I just wrote the logic tests explicitly, no big deal.  Could I have rewritten it, yes.  As a result of how I formatted my code, I did not really need to use the index to choose what image to print, I just printed it by name.  However, I conceded that is more elegant and extensible.
+
+6 tomatoes today when all is said and done, including the obligatory log post.
