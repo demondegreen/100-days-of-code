@@ -77,3 +77,20 @@ Little did I know that she would introduce the concept of error handling in the 
 I also did not rewrite my prototype in her pattern, although I can see where her pattern would be more easily extended to a RPS type game with an additional n hand positions that were all along a spectrum.  I just wrote the logic tests explicitly, no big deal.  Could I have rewritten it, yes.  As a result of how I formatted my code, I did not really need to use the index to choose what image to print, I just printed it by name.  However, I conceded that is more elegant and extensible.
 
 6 tomatoes today when all is said and done, including the obligatory log post.
+
+### R1D5
+
+summary: for loops, ranges, code blocks, "".join, additional random module methods
+
+final project is a (console) password generator
+https://replit.com/@demondegreen/password-generator#main.py
+https://replit.com/@demondegreen/password-generator-limitedlib
+
+which I wrote two ways.  the first way is more elegant but doesn't use any for loops which was the topic for the day.  the second uses a for loop as well as random int indices to reference the original lists.
+
+in her video solution, she already uses random.choice() on the easy version, so if random.choice is on the table, may as well use random.choices() -- especially since the "hard" mode already converts to a list and has random.shuffle in play.  My rewrite only uses for num in range in order to get the length of the lists, which ironically uses a len() inside.
+
+so i'm happy with mine. i started with a list from the outset, and reviewed using "".join() once i was satisfied with the list as such.
+
+will be 6 tomatoes after finishing a couple of other things.  I went way over tomatoes yesterday but it wasn't related to coding, so... not included.
+
