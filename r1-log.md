@@ -94,3 +94,4 @@ so i'm happy with mine. i started with a list from the outset, and reviewed usin
 
 will be 6 tomatoes after finishing a couple of other things.  I went way over tomatoes yesterday but it wasn't related to coding, so... not included.
 
+also did the first 5 lessons of the zombie solidity tutorial for side kicks. cryptozombies.io 
