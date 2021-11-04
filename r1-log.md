@@ -95,3 +95,15 @@ so i'm happy with mine. i started with a list from the outset, and reviewed usin
 will be 6 tomatoes after finishing a couple of other things.  I went way over tomatoes yesterday but it wasn't related to coding, so... not included.
 
 also did the first 5 lessons of the zombie solidity tutorial for side kicks. cryptozombies.io 
+
+### R1D6
+
+summary: review code blocks / indentation, functions, while loops
+
+final project: create instructions for a robot (Reeborg) to solve any a randomly generated maze
+
+Reeborg is a pretty cool learning site.  Wish they'd had this when I was in elementary school/junior high.  Great to use it now though!
+
+I was able to quickly troubleshoot the intermediate level problem (where edge cases would leave the robot in an infinite loop).  I keep coming up with exactly the same solutions are her, so I will take that as a good thing.
+
+7 tomatoes today
