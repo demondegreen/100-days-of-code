@@ -110,12 +110,16 @@ I was able to quickly troubleshoot the intermediate level problem (where edge ca
 
 ### R1D7
 
-first week down
+first week down!
 
-summary: hangman project!
+summary: hangman project! https://replit.com/@demondegreen/Hangman?embed=true#main.py
 
 I made my first flowchart, I am so cool and proud hah.
 
 https://drive.google.com/file/d/1QISFDFQdzm8zz_DfJTDDMh_tf5x1jVPi/view?usp=sharing
 
+some parts of the project were a bit frustrating because of the way she had it organized pedagogically, but for the same reasons it was a very low stress day for me.
 
+My code diverged from hers several times, but I had to be familiar with her code in order to use the next repl's starting position.  No big deal.  The game works but it is brutally hard LOL.
+
+will be 9 tomatoes after cleaning up and also looking a bit at the solidity tutorial again.
