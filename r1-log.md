@@ -123,3 +123,12 @@ some parts of the project were a bit frustrating because of the way she had it o
 My code diverged from hers several times, but I had to be familiar with her code in order to use the next repl's starting position.  No big deal.  The game works but it is brutally hard LOL.
 
 will be 9 tomatoes after cleaning up and also looking a bit at the solidity tutorial again.
+
+BONUS: make that 11 tomatoes.  completed the first lesson on crypto zombies and created this wonderful zombie https://share.cryptozombies.io/en/lesson/1/share/Christian_deMondegreen?id=Y3p8MTQzMDEx this is actually pretty exciting.
+
+I ignored blockchain altogether for as long as I've known about it because I was butthurt after a few stupid experiences with bitcoin.
+But the problem was I was already ignorant or I wouldn't have done what I did (didn't buy early, sold what sliver I had early because I literally had no idea what it was.)
+
+BUT the fact of the matter is, there is a lot of opportunity to still make money in ongoing problems, even if it is just development fees.  I'm trying to find something that is current to re-inject myself into, language independent.  I have a lot of self-taught project experience, a lifetime of this crap, but I have only rarely injected any of that expertise into the public.  I really need to now, trying to survive in this bizarre cyberpunk dystopia with a strange meta-economy moving much faster than the prime.
+
+better late than never?
