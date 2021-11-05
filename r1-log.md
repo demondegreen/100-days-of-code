@@ -107,3 +107,15 @@ Reeborg is a pretty cool learning site.  Wish they'd had this when I was in elem
 I was able to quickly troubleshoot the intermediate level problem (where edge cases would leave the robot in an infinite loop).  I keep coming up with exactly the same solutions are her, so I will take that as a good thing.
 
 7 tomatoes today
+
+### R1D7
+
+first week down
+
+summary: hangman project!
+
+I made my first flowchart, I am so cool and proud hah.
+
+https://drive.google.com/file/d/1QISFDFQdzm8zz_DfJTDDMh_tf5x1jVPi/view?usp=sharing
+
+
