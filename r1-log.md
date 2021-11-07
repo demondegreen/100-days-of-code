@@ -132,3 +132,18 @@ But the problem was I was already ignorant or I wouldn't have done what I did (d
 BUT the fact of the matter is, there is a lot of opportunity to still make money in ongoing problems, even if it is just development fees.  I'm trying to find something that is current to re-inject myself into, language independent.  I have a lot of self-taught project experience, a lifetime of this crap, but I have only rarely injected any of that expertise into the public.  I really need to now, trying to survive in this bizarre cyberpunk dystopia with a strange meta-economy moving much faster than the prime.
 
 better late than never?
+
+### R1D8
+missed yesterday, not counting the day. so this is now Sunday October, 7 2021.
+
+Have been really getting side-interested in smart contracts. It surprises me that I'm actually open to working with crypto and defi now.  I have actively avoided that knowledge domain (and thereby that devspace) for as long as I knew it existed.  Anyway I digress.  My prior notes reminded me.  I've found some amazing assets to learn that, but the first priority is finishing the python challenge.
+
+So now why am I not worried about suddenly calling this day 9 like I have seen some people do on twitter?  Well I'm not, I am calling it 8 because this is the 8th day of effort I'm putting toward this very specific #100DaysOfCode / #100DaysOfPython challenge.  It would be worse for me to try to keep up with an offset than it is to just say "oops worked too hard building those wooden tables, didn't drink enough water" (true) and do day 8 the next day.  It's my life, it's my count, it's my choice.
+
+I also think this is the most sane way to handle #100DaysOfCode when you're sometimes having to go out of town where there is no internet (truth).  Sure you could fill those days with "i downloaded and watched some videos" or "i coded some local stuff" .  Fine.  But it is not the same level of effort and expectation as set forth by a complete curriculum. 
+
+i continue to digress....
+
+summary: review functions with inputs, parameters, and arguments
+
+final project: caesar cipher encoder/decoder (console)
