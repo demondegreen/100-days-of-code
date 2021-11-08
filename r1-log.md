@@ -150,3 +150,15 @@ final project: caesar cipher encoder/decoder (console)
 https://replit.com/@demondegreen/caesar-cipher?embed=1#main.py
 
 not the worst way to spend a sunday. so far 7 tomatoes, but I will probably start looking at the next cryptozombies lesson.  i really dove into the concept last night, after allowing myself to get over myself with regard to programming.  The stupid thing is I have the worst imposter syndrome.  I have literally been coding like this since I was ...what...  8 years old?  I've gotten paid to code in everything from perl to COBOL (yes, actual COBOL on a mainframe with byte-wise raw storage io.  holy crap).   and yes, even python, but it has been a while.  I wrote an entire CMS in 2005 because the client refused to listen to me tell him that WordPress would be more secure.  It's just been a while.  I have hidden from the public eye for years, living very meagerly.  But yeah, I need to start being who I actually am instead who I have been led to imagine myself to be. 
+
+### R1D9
+
+summary: review dictionaries and nesting. 
+
+basically ad hoc data structures
+
+final project: A Silent Auction sim
+https://replit.com/@demondegreen/SilentAuction?embed=1#main.py
+
+in the meantime also making some headway with solidity on the side.
+was up until 2 again because i kept having epiphanies
