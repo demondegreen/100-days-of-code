@@ -162,3 +162,27 @@ https://replit.com/@demondegreen/SilentAuction?embed=1#main.py
 
 in the meantime also making some headway with solidity on the side.
 was up until 2 again because i kept having epiphanies
+
+### R1D10
+Summary: review functions with outputs, docstrings, function recursion
+
+Learned that input() has a return, so can be used to make a loop flag without a separate variable.
+
+final project: text-based 4 function calculator in the console
+https://replit.com/@demondegreen/console-calculator#main.py?embed=1
+
+I wrote my fully functional prototype alone then watched her to look for improvement.
+
+Had some issues with the bottom line of the web-based console in replit, but I confirmed that the issue was not my code by running the calculator locally.
+
+We did this in different ways.  She had a separate micro function created for each operation, while I just passed the operator to the calculate function and had 4 returns.
+
+Well, it ends up she was going to use this entire lesson as a teaching moment because she not so subtly immediately introduced mapping functions to other labels, which turned out to be a pretty cool way to use the typed in symbols.
+
+The symbols themselves were keys mapped to the function names (no parens) in a dictionary. neat.
+
+You can directly call the correct function by addressing the mapped function by passing the index symbol, rather than make a temporary function label as she did.
+
+I feel a little weird wrapping the entire script into a function and then calling itself to loop. in BASIC you just GOTO 10, of course there's nothing like that in python (labeled lines), but in this way the function name actually does act as a label that can be used to loop back and repeat.
+
+Neat, I probably wouldn't have thought to do that as the solution. Well obviously I did not, I had it wrapped differently in my original prototype.
