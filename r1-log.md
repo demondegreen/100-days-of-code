@@ -196,3 +196,6 @@ Not sure why it won't play from that embed page, replit has being acting weird a
 I did this without using any of her hints, so I guess that makes this an "expert" level attempt. I would not call this an expert solution, but I guess I am pretty pleased that I can write a full console program with somewhat convoluted logic without referring to anything but the pydocs to see whether sum() was a method or a function. :)  
 
 I am going to go through now and watch how she did it, because I guarantee this is not the most elegant solution.  Nevertheless rather than just commit her code instead of mine, I am committing mine as a snapshot of my thoughts and how I handle logic at this point in time.
+
+I am also starting to commit some of the more interesting code snippets to another repo:
+https://github.com/demondegreen/my-100-days
