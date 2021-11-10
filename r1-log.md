@@ -186,3 +186,13 @@ You can directly call the correct function by addressing the mapped function by 
 I feel a little weird wrapping the entire script into a function and then calling itself to loop. in BASIC you just GOTO 10, of course there's nothing like that in python (labeled lines), but in this way the function name actually does act as a label that can be used to loop back and repeat.
 
 Neat, I probably wouldn't have thought to do that as the solution. Well obviously I did not, I had it wrapped differently in my original prototype.
+
+### R1D11
+Capstone project, a console blackjack game.  Relatively simple - does not account for splits, double down, insurance etc.  Just 1 on 1 21.
+https://replit.com/@demondegreen/blackjack?embed=1
+
+Not sure why it won't play from that embed page, replit has being acting weird all day as if I'm disconnecting and connecting from the internet frequently.  Nothing else gives me that indication.  So I eventually moved over to Thonny and finished it locally.  It's actually pretty fun and frustrating, so I am not upset.
+
+I did this without using any of her hints, so I guess that makes this an "expert" level attempt. I would not call this an expert solution, but I guess I am pretty pleased that I can write a full console program with somewhat convoluted logic without referring to anything but the pydocs to see whether sum() was a method or a function. :)  
+
+I am going to go through now and watch how she did it, because I guarantee this is not the most elegant solution.  Nevertheless rather than just commit her code instead of mine, I am committing mine as a snapshot of my thoughts and how I handle logic at this point in time.
