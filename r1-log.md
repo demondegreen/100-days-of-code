@@ -134,7 +134,7 @@ BUT the fact of the matter is, there is a lot of opportunity to still make money
 better late than never?
 
 ### R1D8
-missed yesterday, not counting the day. so this is now Sunday October, 7 2021.
+missed yesterday, not counting the day. so this is now Sunday November, 7 2021.
 
 Have been really getting side-interested in smart contracts. It surprises me that I'm actually open to working with crypto and defi now.  I have actively avoided that knowledge domain (and thereby that devspace) for as long as I knew it existed.  Anyway I digress.  My prior notes reminded me.  I've found some amazing assets to learn that, but the first priority is finishing the python challenge.
 
@@ -199,3 +199,16 @@ I am going to go through now and watch how she did it, because I guarantee this 
 
 I am also starting to commit some of the more interesting code snippets to another repo:
 https://github.com/demondegreen/my-100-days
+
+### R1D12
+Nov 12, 2021
+
+summary: namespaces and scope, naming constants
+
+final project: guess the number game
+https://replit.com/@demondegreen/guess-the-number?embed=1#main.py
+https://github.com/demondegreen/my-100-days/tree/main/R1/D12%20Number%20Guess
+
+Not a lot new here, I actually thought it was significantly easier than the blackjack game, so it was a nice reprieve.  I wrote it without assistance again, so this version is *my* take on the solution as a first prototype. It works.  I feel like the penalize_player() function is kind of unnecessary, I only did it to avoid a couple of lines of repeated code, but that then necessitated rewriting all the turn count decrements as results of return rather than a direct decrement (which is easier to read).  Whatever! Best number guessing game I've written in a while.
+
+Also spent some time reviewing a roadmap toward hopeful freelance work in the blockchain space.  I feel like I am incredibly late to the party, but there's no time other than now.  I can't do anything about past decisions.  So let's do this.  It does mean I have to add a javascript review (which I may do as part of another 100 days) as well as some serious react learning.  (Maybe a CSS intensive also.  I need enough to make a lightweight, responsive front-end and it isn't completely foreign, it has just been a while and I really want to make sure to use the current thinking patterns as regards...well everything.)
