@@ -212,3 +212,11 @@ https://github.com/demondegreen/my-100-days/tree/main/R1/D12%20Number%20Guess
 Not a lot new here, I actually thought it was significantly easier than the blackjack game, so it was a nice reprieve.  I wrote it without assistance again, so this version is *my* take on the solution as a first prototype. It works.  I feel like the penalize_player() function is kind of unnecessary, I only did it to avoid a couple of lines of repeated code, but that then necessitated rewriting all the turn count decrements as results of return rather than a direct decrement (which is easier to read).  Whatever! Best number guessing game I've written in a while.
 
 Also spent some time reviewing a roadmap toward hopeful freelance work in the blockchain space.  I feel like I am incredibly late to the party, but there's no time other than now.  I can't do anything about past decisions.  So let's do this.  It does mean I have to add a javascript review (which I may do as part of another 100 days) as well as some serious react learning.  (Maybe a CSS intensive also.  I need enough to make a lightweight, responsive front-end and it isn't completely foreign, it has just been a while and I really want to make sure to use the current thinking patterns as regards...well everything.)
+
+### R1D13
+Nov 15, 2021 , had to work overnight all weekend.  Been studing blockchain on the side, so still a win.
+
+Summary: general tips for debugging and using a debugger with breakpoints.  No standalone final project, several coding exercises.
+
+This was a very quick day for me, I should have just done it yesterday but I was wiped.
+
