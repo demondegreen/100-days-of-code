@@ -220,3 +220,11 @@ Summary: general tips for debugging and using a debugger with breakpoints.  No s
 
 This was a very quick day for me, I should have just done it yesterday but I was wiped.
 
+### R1D14
+The end of the "Beginner" section of the course, today we were given a working program and told to break it down and re-write it from scratch.  Looking forward to tomorrow where we move out of Replit.  I think I've hit my limit of patience with a few of its quirks.
+
+project: higher lower game
+https://replit.com/@demondegreen/higher-lower?embed=1#main.py
+https://github.com/demondegreen/my-100-days/tree/main/R1/D14%20Higher%20Lower
+
+No major problems here.  I planned by way of writing out the process in comments, which are documented as pseudocode in the repo.  My final version was slightly different, but it marks the beginning point right before I wrote down any real code.  An interesting artifact, and perhaps helpful to someone.  Moved some of the repeated code out of hte main game loop (function) into functions.  I was thinking of other ways to optimize this but it really isn't that big of a deal.  Time to move on.
