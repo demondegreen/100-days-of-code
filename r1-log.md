@@ -228,3 +228,7 @@ https://replit.com/@demondegreen/higher-lower?embed=1#main.py
 https://github.com/demondegreen/my-100-days/tree/main/R1/D14%20Higher%20Lower
 
 No major problems here.  I planned by way of writing out the process in comments, which are documented as pseudocode in the repo.  My final version was slightly different, but it marks the beginning point right before I wrote down any real code.  An interesting artifact, and perhaps helpful to someone.  Moved some of the repeated code out of hte main game loop (function) into functions.  I was thinking of other ways to optimize this but it really isn't that big of a deal.  Time to move on.
+
+I lied, i came back and spent another half hour refactoring and re-arranging.  much happier with this version.  It handles things that the instructor's does not. It also adds a win condition rather than perpetually revolve.  It's probably not like the original game, but I am treating all the entries more like cards.  They get removed from the stack --> when the stack is 0 on a final correct answer, you win because you've cleared the deck.
+
+The fact is this would be an extremely rare condition with anything but the smallest of datasets. e.g., Unless someone is cheating, they're not going to get 50 of these answers correct in a row.  Removing the card from the deck also ensures you never draw the same card for B as what's already in A, which is a bigger issue because it requires its own handler.
