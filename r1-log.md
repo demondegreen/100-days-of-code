@@ -232,3 +232,13 @@ No major problems here.  I planned by way of writing out the process in comments
 I lied, i came back and spent another half hour refactoring and re-arranging.  much happier with this version.  It handles things that the instructor's does not. It also adds a win condition rather than perpetually revolve.  It's probably not like the original game, but I am treating all the entries more like cards.  They get removed from the stack --> when the stack is 0 on a final correct answer, you win because you've cleared the deck.
 
 The fact is this would be an extremely rare condition with anything but the smallest of datasets. e.g., Unless someone is cheating, they're not going to get 50 of these answers correct in a row.  Removing the card from the deck also ensures you never draw the same card for B as what's already in A, which is a bigger issue because it requires its own handler.
+
+### R1D15
+
+Cool day! We got off Replit and into PyCharm which I am loving.  Although I actually would have preferred she moved us into vscode, this is a very nice IDE and the open source version is good enough for now.  Definitely appreciating the speed of the code completion compared to replit which was constantly falling offline (I'm on wifi in the back of the building, but nothing falls off that much).  Also loving how it sets up virtual environments per project automagically.  Actually I really like that.
+
+No new python, but another reverse engineering logic project.
+
+project: Coffee Machine simulator
+https://github.com/demondegreen/my-100-days/tree/main/R1/D15%20Coffee%20Machine
+https://git.io/J1wTc
