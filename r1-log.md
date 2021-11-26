@@ -242,3 +242,13 @@ No new python, but another reverse engineering logic project.
 project: Coffee Machine simulator
 https://github.com/demondegreen/my-100-days/tree/main/R1/D15%20Coffee%20Machine
 https://git.io/J1wTc
+
+### R1D16
+
+summary: review oop, attributes, methods, libraries
+
+TIL Turtle graphics language / LOGO exists in Python.
+
+final project: oop coffee machine sim, using provided library and documentation
+repo: https://github.com/demondegreen/my-100-days/tree/main/R1/D16%20OOP%20Coffee%20Machine
+https://git.io/JMObi
