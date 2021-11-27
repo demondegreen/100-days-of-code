@@ -252,3 +252,30 @@ TIL Turtle graphics language / LOGO exists in Python.
 final project: oop coffee machine sim, using provided library and documentation
 repo: https://github.com/demondegreen/my-100-days/tree/main/R1/D16%20OOP%20Coffee%20Machine
 https://git.io/JMObi
+
+### R1D17
+
+object oriented project with from-scratch classes.  A logical extension of yesterday.
+
+this is the first time I have really been able to understand how you "start" an object-oriented program.  that's a win.  
+I've understood how objects work, and even how they work together, but functional/procedural programming has always been more natural for me.
+The issue has been, ok I k now how to define all these classes and they could theoretically talk to each other, but I have never sat down and
+created a new program that was strictly objects, and now I realize the "main" file /is/ the conductor of the orchestra.  I am still thinking
+about it procedurally, though, because I'm imagining the environment in which the objects live to be a single big while loop, like the one used
+to operate the OOP coffee machine yesterday.  When I think of a game environment, I don't think of it as a while loop.  things appear to be happening
+simultaneously - and perhaps now is a good time to say I realize I have much more to learn about how objects are used in the real world - but i digress,
+it appears that things are happening simultaneously (through magic of multi core multi thread... that's what i need to learn about if i wanted to make
+a "realtime" multiplayer game.  or even a MUD.  Though all that runs through a loop.
+
+Merc/DIKU were one big loop .  LPMud was object oriented, and maybe the big loop was abstracted away. so maybe like popping into second life, everything
+seems to be happening and moving around simultaneously.  the big loop is not at the level of the human object interaction.  but somewhere there is
+a big loop controller.  something that gets started, creates the world, and gets things running - or gets the conversation started between objects.  The reason why the coffee machine thing seemed so easy is because the input was all from the user, and one can easily imagine a keypad kind of situation, swiping their phone or card to pay rather than coins, but still. oldschool coin vending machines with the ABCD and numbers buttons.  There is zero room for error on the part of the user.  and the machine is not doing
+anything while waiting for a customer.  As soon as the customer hits ENTER that's the BIG BANG
+
+so what is the big bang for a mud? world initialization. every command could be a SMALL BANG handed to another object.  the interpreter hands out tasks to different other objects... but man it is so hard to not just think of those "objects" as conveniently organized collections of data and related functions.
+
+anyway i digress.  I'm starting to think of that python mud project, have to go look up what it is.  I wonder if they have a repo.  EVENNIA..
+and yes they do https://github.com/evennia/evennia .  Now watch me get sidetracked.  Going to fork that later.  I think I could actually contribute to it,
+and more importantly understanding how it works will inform me as to the answers of many questions.
+
+project: console quiz game
