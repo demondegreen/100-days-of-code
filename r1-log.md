@@ -278,8 +278,13 @@ anyway i digress.  I'm starting to think of that python mud project, have to go 
 and yes they do https://github.com/evennia/evennia .  Now watch me get sidetracked.  Going to fork that later.  I think I could actually contribute to it,
 and more importantly understanding how it works will inform me as to the answers of many questions.
 
-project: console quiz game
-
 ... some time later: well yeah, I did get very distracted by Evennia and looking into setting up an env for it.  I will likely run it under WSL.  Need to figure out how to get pycharm to use the WSL interpreter instead of the ones on win, just like vscode does, and it will be stellar.  But I have not set that up.  Incidentally it was also a holiday so my last few realtime days have been super messed up.  So let me repeat my stance on time and what "100 days" means to me.
 
 I am going to finish each of the specific 100 days of Python in this course as a separate effort.  Any days missed will not be counted, even if (as in this one) I was working on other coding related things.  I don't need to impress anyone with doing 100 days back to back.  So long as I am making progress toward returning to the industry as a coder, I'm not worried about it.  I was going to post intersitial "bonus" days where I worked on something else code related, but I don't want to put all that in the same repo.  So off we go now to actually write day 17.
+
+project: console quiz game
+https://github.com/demondegreen/my-100-days/tree/main/R1/D17%20Quiz%20Game
+
+no major problems with this. I did a lot of self testing along the way to get ahead of where she was going and make sure I was always able to access what I needed.
+
+I did notice a lot of people dropping from the course in the questions and comments.  Too bad for them.
